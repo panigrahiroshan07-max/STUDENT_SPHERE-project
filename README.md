@@ -1,0 +1,2 @@
+# STUDENT_SPHERE-project
+**350-character version:**  Student Sphere is a student productivity web app that helps students manage subjects, timetables, attendance, exams, assignments, and study goals in one place. It provides progress tracking, reminders, and academic alerts to improve organization, boost productivity, and make student life simpler and more efficient.
